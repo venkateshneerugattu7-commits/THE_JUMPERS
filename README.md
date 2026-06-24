@@ -38,19 +38,19 @@ If `coincurve` is installed, secp256k1 point multiplication is automatically acc
 
 ## Quick Start
 
-```bash
 # Clone the repository
-git clone https://github.com/THEJUMPERS/ORIGIN.git
-cd ORIGIN
+
+git clone https://github.com/venkateshneerugattu7-commits/THE_JUMPERS.git
+cd THE_JUMPERS
 
 # Run (zero dependencies)
-python3 ORIGIN.py
+
+python ORIGIN.py
 
 # Optional: install coincurve for 100x speedup
-pip install coincurve
-```
 
----
+pip install coincurve
+
 
 ## Architecture
 
